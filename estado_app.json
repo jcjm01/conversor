@@ -1,4 +1,4 @@
 {
-  "activo": false,
-  "mensaje": "⚠️ Estamos fuera de servicio temporalmente."
+  "activo": true,
+  "mensaje": ""
 }
