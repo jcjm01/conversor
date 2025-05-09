@@ -1,4 +1,4 @@
 {
-  "activo": false,
-  "mensaje": "⚠️ Estamos fuera de servicio temporalmente."
+  "activo": true,
+  "mensaje": "La aplicación está temporalmente fuera de servicio por alta demanda. Por favor, vuelve más tarde."
 }
